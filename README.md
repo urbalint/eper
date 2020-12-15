@@ -1,2 +1,2 @@
 # eper
-Itt gyakorolható a hozzájárulást. 
+Itt gyakorolhatod a hozzájárulást. 
